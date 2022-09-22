@@ -1,0 +1,14 @@
+{
+  "token": "NzMyOTI3MzEyNzUxODg2NDI1.GkoRPa.7ZQMVE7Vp8cqlUzEV09JOfOabWDU9faB62idOk",
+  "clientId": "732927312751886425",
+  
+  "admins": ["387037021685940225"],
+  "support": ["387037021685940225"],
+
+  "spotifyId": "53a5d4b014924e4a81c281e24266e290",
+  "spotifySecret": "6e0fb5a291094912a80919f3eb2f00fe",
+
+  "w2g_api_key": "d4og4bywi6vla8ycqw7e6ct0jswkmfkxslt9bqn2g28bzjna8537mameen85t2yf",
+
+  "production": false
+}
